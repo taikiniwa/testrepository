@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NfcReadTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="disp_ndc">NDC</string>
+    <string name="disp_msg">ICカードをかざしてください</string>
+    <string name="disp_title1_3">よ</string>
+    <string name="disp_title2_4">む</string>
+    <string name="disp_title5">君</string>
+    <string name="zandaka">残高を表示します</string>
+    <string name="date">利用日</string>
+    <string name="tagmsg"/>
+
+</resources>
